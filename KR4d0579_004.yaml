@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0579/krp/v1/juan/4
+seq: 4
+front:
+  text: 雲松巢集後序雲松先生諫七世祖也以詩名于元季與四明吳主一蕭臺趙彥銘先生遊詠鴈山中時稱為鴈山三老先生之詩清麗簡亮不事纎巧感慨咏嘆而有餘思元人多尚辭而意或不足是以興趣漠然而音節無聞先生以不求仕進故得專心肆力所謂清麗簡亮者鏘鏘乎可以振唐人之遺響而下視元季之萎弱者矣先生為人甘貧樂隱邅亂避地所至多與文士交名山勝境遊覽殆遍自梅溪西轉永嘉之柯村羈旅數年至國初四方底定然後歸時已老矣有司嘗以姓名著薦剡不及領朝命而卒平生不事生業田止數十畝僅供飦粥臨終令悉入祠堂以奉祭祀雖有五子而分寸無所預以所作雲松巢詩集一册端硯一方古本文選一帙付諸子曰汝可守此無忘我素志詩各體凡數千首不能盡刻録噫子孫若諫者愚騃不肖安能盡探先生之所藴而去取哉姑舉其易知而易習者以訓吾宗之子孫而已耳然多清麗簡亮而有格力自可以入大方家而名于後世矣諫不肖不敢以愚騃辭謹輯成集復序于末云嘉靖七年秋九月朔旦七世孫諫謹序
+  hash: sha256:4d88db160115fcd8032b3ced4ecc3638991d6f29d1979e4dd27d340dcfdfa4a3
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0579_WYG_004-1a, image: WYG1220/WYG1220-0647a.png}
+body:
+  text: 雲松巢集後序
+  hash: sha256:1ebd0e040cbf3bfd4f9f743000df0c3e5151a786f16ee1cb0e9af6845710f4b7
+metadata:
+  title: 雲松巢集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:15:11.452262'
+  juan_title: 後序
+  source:
+    repository: kanripo
+    path: KR4d0579/KR4d0579_004.txt
+hash: sha256:5cc7dc8c5b564a910cd3c4e4c0806e467a7e93aac4436e7892d1087618f9e905
