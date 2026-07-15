@@ -10,10 +10,12 @@ markers:
 
       ', id: KR4d0579_krp_004-bkkkrnewl2}
   - {type: line-break, offset: 6, content: '', id: KR4d0579_WYG_004-1a02}
+  - {type: substitution, offset: 24, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
   - {type: 'kr:newline', offset: 27, content: '
 
       ', id: KR4d0579_krp_004-bkkkrnewl3}
   - {type: line-break, offset: 27, content: '', id: KR4d0579_WYG_004-1a03}
+  - {type: substitution, offset: 30, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20772}}
   - {type: 'kr:newline', offset: 48, content: '
 
       ', id: KR4d0579_krp_004-bkkkrnewl4}
@@ -34,6 +36,7 @@ markers:
 
       ', id: KR4d0579_krp_004-bkkkrnewl8}
   - {type: line-break, offset: 132, content: '', id: KR4d0579_WYG_004-1a08}
+  - {type: substitution, offset: 135, original: 隠, replacement: 隱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20614}}
   - {type: variant, offset: 136, length: 1, content: 邅, WYG: 􅇜}
   - {type: 'kr:newline', offset: 153, content: '
 
@@ -51,6 +54,7 @@ markers:
 
       ', id: KR4d0579_krp_004-bkkkrnewl12}
   - {type: line-break, offset: 195, content: '', id: KR4d0579_WYG_004-1b03}
+  - {type: substitution, offset: 209, original: 畆, replacement: 畝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16556}}
   - {type: 'kr:newline', offset: 216, content: '
 
       ', id: KR4d0579_krp_004-bkkkrnewl13}
@@ -161,4 +165,4 @@ markers:
 
       ', id: KR4d0579_krp_004-bkkkrnewl15}
   back: []
-hash: sha256:cad1c8050c3ec4fa02224bb6a01ec6fa683b8f9ccd59a01e89518ab8afeb4456
+hash: sha256:af808ac897c32c49cabe6c53028033e2a44a7680357baac718cd14905f92b2f8
