@@ -26,10 +26,10 @@ assets:
   - {seq: 3, filename: KR4d0579_003.yaml, hash: 'sha256:70f8509d167007ee78c1569166bc708d335b5143ad76c2e21cc3de33ddbe2e00'}
   - {seq: 4, filename: KR4d0579_004.yaml, hash: 'sha256:5cc7dc8c5b564a910cd3c4e4c0806e467a7e93aac4436e7892d1087618f9e905'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0579_000.markers.yaml, hash: 'sha256:c38f3e79384b964af31b440b5726057d50c8b5bc03a6f4219b7c273271f14b64'}
-  - {seq: 1, role: markers, filename: assets/KR4d0579_001.markers.yaml, hash: 'sha256:7a666be5e5eb1533b3a109fdee6789acb17349c3b00b9794a5af8b6ea6bed59c'}
-  - {seq: 2, role: markers, filename: assets/KR4d0579_002.markers.yaml, hash: 'sha256:84a05d1cd8dc9495c6c323620466b1ffbcb34c36dcd0781a807c7c48135431b9'}
-  - {seq: 3, role: markers, filename: assets/KR4d0579_003.markers.yaml, hash: 'sha256:255275f108e2961af5ae6b79551ebc7ff2af352b80b0ac6f1d8228da4d1592fe'}
+  - {seq: 0, role: markers, filename: assets/KR4d0579_000.markers.yaml, hash: 'sha256:8535d17b31f4732ee7736181103a7e6111652b6fe88fb07d2d95df3208d0853d'}
+  - {seq: 1, role: markers, filename: assets/KR4d0579_001.markers.yaml, hash: 'sha256:ac55914f98757941e10f122f7f469242e65f718b34568ef96bea0911e754d1d9'}
+  - {seq: 2, role: markers, filename: assets/KR4d0579_002.markers.yaml, hash: 'sha256:f2d50c3716c2fb228b489f265b885296d7767b1ade9b6b744bed7e5960035cba'}
+  - {seq: 3, role: markers, filename: assets/KR4d0579_003.markers.yaml, hash: 'sha256:88d95188abc1fa0b397ed5047dca8c0ba7b7a1d4fcf22aefff5df846417caef5'}
   - {seq: 4, role: markers, filename: assets/KR4d0579_004.markers.yaml, hash: 'sha256:af808ac897c32c49cabe6c53028033e2a44a7680357baac718cd14905f92b2f8'}
 table_of_contents:
 - ref:
@@ -92,7 +92,7 @@ table_of_contents:
   label: 後序
   type: section
   level: 1
-hash: sha256:b725a0758fe3f43a1cb6f45761911a867941433fd6541b7e7bb97ed7946a0402
+hash: sha256:9ca8aee1dd75d22a68be03dd875181b0acbcc0cecce250f34a1a88f22e9b715e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
